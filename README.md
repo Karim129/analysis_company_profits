@@ -1,4 +1,4 @@
-#Analyse company data to anwser this questions
+# Analyse company data to anwser this questions
 
 * Number of orders for each Manufacturer 
 * The profit that each Manufacturer makes 
